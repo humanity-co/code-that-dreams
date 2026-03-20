@@ -1,0 +1,1 @@
+// Resource isolation logic
